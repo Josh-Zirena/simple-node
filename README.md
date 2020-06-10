@@ -1,5 +1,5 @@
 # Overview
-This is a very simple, bare-bones NodeJS project created for you to use with Docker.
+This is a very simple, bare-bones NodeJS project created to learn .travis.yml.
 
 # Local Setup
 * Install dependencies: `npm install`

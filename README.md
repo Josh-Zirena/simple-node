@@ -1,5 +1,5 @@
 # Overview
-This is a very simple, bare-bones NodeJS project created to learn .travis.yml.
+This is a very simple, bare-bones NodeJS project created to learn more about deployments in Kubernetes.
 
 # Local Setup
 * Install dependencies: `npm install`
